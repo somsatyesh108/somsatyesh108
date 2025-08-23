@@ -1,4 +1,12 @@
-<p align="left">Just a CS student tinkering with AI/ML and turning ideas into code.</p>
+<h1 align="left">About Me :</h1>
+
+###
+
+<h4 align="left">Just a CS student tinkering with AI/ML and turning ideas into code.</h4>
+
+###
+
+<h1 align="left">Tech :</h1>
 
 ###
 
@@ -42,6 +50,10 @@
 
 ###
 
+<h1 align="left">Socials :</h1>
+
+###
+
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
@@ -54,6 +66,10 @@
 <div align="center">
   <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTNraXpxY2Q0cTNndmk2OG9uN2pzbnR6djhxYmMydjVveW51cmVldiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
 </div>
+
+###
+
+<h1 align="left">Stats :</h1>
 
 ###
 
