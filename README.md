@@ -14,11 +14,11 @@
 
 <br/><br/>
 
-<img src="./assets/terminal.svg" width="90%" alt="terminal boot animation"/>
+<img src="./terminal.svg" width="90%" alt="terminal boot animation"/>
 
 </div>
 
-<p align="center"><img src="./assets/divider.svg" width="100%"/></p>
+<p align="center"><img src="./divider.svg" width="100%"/></p>
 
 ### `> whoami`
 
@@ -39,10 +39,10 @@ me = Som()
 ```
 
 <div align="center">
-  <img src="./assets/neural-net.svg" width="90%" alt="animated neural network"/>
+  <img src="./neural-net.svg" width="90%" alt="animated neural network"/>
 </div>
 
-<p align="center"><img src="./assets/divider.svg" width="100%"/></p>
+<p align="center"><img src="./divider.svg" width="100%"/></p>
 
 ### `> ls ./tech-stack`
 
@@ -68,7 +68,7 @@ me = Som()
 
 </div>
 
-<p align="center"><img src="./assets/divider.svg" width="100%"/></p>
+<p align="center"><img src="./divider.svg" width="100%"/></p>
 
 ### `> cat ./featured-projects.md`
 
@@ -115,7 +115,7 @@ Full-stack booking engine with real-time seat locking and a relational PostgreSQ
 </tr>
 </table>
 
-<p align="center"><img src="./assets/divider.svg" width="100%"/></p>
+<p align="center"><img src="./divider.svg" width="100%"/></p>
 
 ### `> git log --stats`
 
@@ -130,7 +130,7 @@ Full-stack booking engine with real-time seat locking and a relational PostgreSQ
 
 </div>
 
-<p align="center"><img src="./assets/divider.svg" width="100%"/></p>
+<p align="center"><img src="./divider.svg" width="100%"/></p>
 
 ### `> ./snake.exe`
 
@@ -141,7 +141,7 @@ Full-stack booking engine with real-time seat locking and a relational PostgreSQ
   </picture>
 </div>
 
-<p align="center"><img src="./assets/divider.svg" width="100%"/></p>
+<p align="center"><img src="./divider.svg" width="100%"/></p>
 
 ### `> ping som`
 
