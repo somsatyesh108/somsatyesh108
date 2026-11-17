@@ -7,11 +7,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF9F&center=true&vCenter=true&width=600&lines=%3E+Initializing+profile...;%3E+B.Tech+CSE+(AI+%26+ML)+%40+SRM+Ramapuram;%3E+Turning+raw+data+into+decisions;%3E+Building+ML+pipelines+%2B+React+dashboards;%3E+Currently+shipping%3A+Seat+Booking+System" alt="Typing SVG" />
 </a>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=somsatyesh108&label=PROFILE+VIEWS&color=00ff9f&style=for-the-badge" alt="profile views"/>
-<a href="https://github.com/somsatyesh108?tab=followers"><img src="https://img.shields.io/github/followers/somsatyesh108?label=FOLLOWERS&style=for-the-badge&color=00b8ff&labelColor=0d1117" alt="followers"/></a>
-
 <br/><br/>
 
 <img src="./terminal.svg" width="90%" alt="terminal boot animation"/>
