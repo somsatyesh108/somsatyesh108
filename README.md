@@ -1,10 +1,10 @@
 <!-- ═══════════════════════════  HEADER  ═══════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff9f,100:00b8ff&height=200&section=header&text=Som%20Satyesh&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Full-Stack&descAlignY=58&descSize=18&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:ff2a6d,100:05d9e8&height=200&section=header&text=Som%20Satyesh&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Full-Stack&descAlignY=58&descSize=18&animation=twinkling" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF9F&center=true&vCenter=true&width=600&lines=%3E+Initializing+profile...;%3E+B.Tech+CSE+(AI+%26+ML)+%40+SRM+Ramapuram;%3E+Turning+raw+data+into+decisions;%3E+Building+ML+pipelines+%2B+React+dashboards;%3E+Currently+shipping%3A+Seat+Booking+System" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=ff2a6d&center=true&vCenter=true&width=600&lines=%3E+Initializing+profile...;%3E+B.Tech+CSE+(AI+%26+ML)+%40+SRM+Ramapuram;%3E+Turning+raw+data+into+decisions;%3E+Building+ML+pipelines+%2B+React+dashboards;%3E+Currently+shipping%3A+Seat+Booking+System" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -59,7 +59,7 @@ me = Som()
 <img src="https://img.shields.io/badge/XGBoost-1A73E8?style=for-the-badge&logo=xgboost&logoColor=white"/>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white"/>
-<img src="https://img.shields.io/badge/LLMs-Groq%20%7C%20Llama3-00ff9f?style=for-the-badge&logo=meta&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLMs-Groq%20%7C%20Llama3-ff2a6d?style=for-the-badge&logo=meta&logoColor=white"/>
 
 </div>
 
@@ -76,7 +76,7 @@ AI-driven job-market analyser & skill-gap predictor — backed by a co-authored 
 
 `XGBoost` salary prediction · `TF-IDF` job recommendations · `K-Means` clustering · `Llama3` via Groq
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/ML-00ff9f?style=flat-square"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/ML-ff2a6d?style=flat-square"/>
 
 </td>
 <td width="50%" valign="top">
@@ -86,7 +86,7 @@ Replaced manual Decline-Curve-Analysis EUR estimates with an automated ML pipeli
 
 `Feature engineering` · `Regression` · `Dashboarding`
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/Oil%20%26%20Gas-0d1117?style=flat-square"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/Oil%20%26%20Gas-0d0221?style=flat-square"/>
 
 </td>
 </tr>
@@ -104,7 +104,7 @@ Fuel-management system with role-based React dashboards — built by an 8-person
 #### 🎟️ Seat Booking System &nbsp;<sub>`🚧 in progress`</sub>
 Full-stack booking engine with real-time seat locking and a relational PostgreSQL backend.
 
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Backend-00b8ff?style=flat-square"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Backend-05d9e8?style=flat-square"/>
 
 </td>
 </tr>
@@ -116,12 +116,12 @@ Full-stack booking engine with real-time seat locking and a relational PostgreSQ
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=somsatyesh108&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9f&icon_color=00b8ff&text_color=c9d1d9&count_private=true&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somsatyesh108&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9f&text_color=c9d1d9" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=somsatyesh108&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=ff2a6d&icon_color=05d9e8&text_color=d1f7ff&count_private=true&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somsatyesh108&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=ff2a6d&text_color=d1f7ff" />
 
-<img src="https://streak-stats.demolab.com?user=somsatyesh108&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff9f&fire=00b8ff&currStreakLabel=00ff9f" />
+<img src="https://streak-stats.demolab.com?user=somsatyesh108&theme=radical&hide_border=true&background=0d0221&ring=ff2a6d&fire=05d9e8&currStreakLabel=ff2a6d" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=somsatyesh108&bg_color=0d1117&color=00ff9f&line=00b8ff&point=ffffff&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=somsatyesh108&bg_color=0d0221&color=ff2a6d&line=05d9e8&point=ffffff&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -148,4 +148,4 @@ Full-stack booking engine with real-time seat locking and a relational PostgreSQ
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b8ff,50:00ff9f,100:0d1117&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05d9e8,50:ff2a6d,100:0d0221&height=120&section=footer" width="100%"/>
